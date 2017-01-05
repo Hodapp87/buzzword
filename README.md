@@ -21,5 +21,31 @@ to Win at Wordsmanship")
 
 I implemented that, and then extended it later to a finite state
 machine which had the added benefit that it could make much longer,
-more rambling phrases.  It may still need some updates for more recent
-additions to our buzzword lexicon.
+more rambling phrases (sometimes verging on sentences or paragraphs).
+It may still need some updates for more recent additions to our
+buzzword lexicon.
+
+Running
+----
+
+It's a normal stack/cabal build:
+
+    stack build
+    stack exec buzzword
+
+It takes no arguments when running it - it just generates another
+random buzzphrase.
+
+Examples
+----
+
+- *proactively accelerating web-scale e-commerce synergy*
+- *integrated profit innovation by utilizing the power of transitional
+  financial projection*
+- *ensuring relations rendering with the advantage of localized legacy
+  data synergy with the leap ahead to client logic innovation*
+- *competitively stimulating client hardware through the power of
+  unified rendering with the leap ahead to systematized management
+  development by utilizing the power of intelligence agility by
+  disrupting reciprocal vision through the power of fundamental
+  customer paradigm from the platform of fiscal client options*
